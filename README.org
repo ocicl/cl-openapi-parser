@@ -1,0 +1,10 @@
+* cl-openapi-parser
+
+OpenAPI 3.0.1 and 3.1.0 parser/validator
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pokepay/cl-openapi-parser.git   |
+| commit  | 7e73590  |
+| systems | cl-openapi-parser |
+|---------+-------------------------------------------|
+
